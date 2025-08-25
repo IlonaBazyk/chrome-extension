@@ -4,12 +4,8 @@
 
 ### Run and build extension
 
-In a terminal:
-
-```bash
-# Initial setup
-npm install
-
-# Start
-npm start
-```
+1. Run `npm run start`
+2. Open in browser - `chrome://extensions`
+3. Check - <kbd>Developer mode</kbd>
+4. Click - <kbd>Load unpacked</kbd> in the upper left corner
+5. Select the `build` directory from the boilerplate project
