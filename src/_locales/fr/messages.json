@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Minuterie de mise au point"
+  },
+  "description": {
+    "message": "Une méthode de gestion du temps basée sur des périodes de travail concentré de 25 minutes interrompues par des pauses de cinq minutes"
+  }
+}

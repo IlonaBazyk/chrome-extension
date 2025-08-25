@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Temporizador de enfoque"
+  },
+  "description": {
+    "message": "Un método de gestión del tiempo basado en tramos de 25 minutos de trabajo concentrado divididos por descansos de cinco minutos"
+  }
+}

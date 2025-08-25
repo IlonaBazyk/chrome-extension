@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Temporizador de Foco"
+  },
+  "description": {
+    "message": "Um método de gerenciamento de tempo baseado em trechos de 25 minutos de trabalho focado, interrompidos por intervalos de cinco minutos"
+  }
+}

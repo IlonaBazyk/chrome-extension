@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Timer di messa a fuoco"
+  },
+  "description": {
+    "message": "Un metodo di gestione del tempo basato su periodi di 25 minuti di lavoro mirato interrotti da pause di cinque minuti"
+  }
+}
