@@ -1,4 +1,4 @@
-# Readlax Focus Timer
+# Chrome extension
 
 ## Local Development
 
